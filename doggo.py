@@ -1,1 +1,3 @@
 print("WOOF")
+
+print("BARK")
